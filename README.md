@@ -1,5 +1,6 @@
 # Hey comrades, I'm Paola Flores 👋
 
+I am Administrative Informatics Student from UCNL
 
 
 
