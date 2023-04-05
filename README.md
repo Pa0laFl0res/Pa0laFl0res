@@ -4,6 +4,11 @@ I am Administrative Informatics Student from UCNL
 
 
 
+## Skills
+
+Programming language : https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white 
+
+
 ## Certifications / Badges
 
 ![mini](https://user-images.githubusercontent.com/99099314/222854144-6198206a-261e-41b7-87a6-d5f4b93129d5.png)
