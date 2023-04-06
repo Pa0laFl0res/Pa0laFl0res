@@ -1,6 +1,4 @@
-# Hey comrades, I'm Paola Flores 👋
-
-I am Administrative Informatics Student from UCNL
+# Hey comrades👋
 
 ![name2](https://user-images.githubusercontent.com/99099314/230273829-78fb0159-f61c-4b45-ace6-2cc8e1115a19.png)
 
