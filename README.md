@@ -1,8 +1,8 @@
 # Hey comrades👋
 
-## Skills![name3](https://user-images.githubusercontent.com/99099314/230275593-f1942856-7ca5-4c70-b80d-62b065bdf02b.png)
+![name3](https://user-images.githubusercontent.com/99099314/230275593-f1942856-7ca5-4c70-b80d-62b065bdf02b.png)
 
-
+## Skills
 Programming language : 
 
 
