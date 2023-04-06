@@ -1,6 +1,7 @@
 # Hey comrades👋
 
-![name2](https://user-images.githubusercontent.com/99099314/230273829-78fb0159-f61c-4b45-ace6-2cc8e1115a19.png)
+
+![name2 (1)](https://user-images.githubusercontent.com/99099314/230274229-90b628bb-ec19-4c72-a307-32287435e202.png)
 
 
 ## Skills
